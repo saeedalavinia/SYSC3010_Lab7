@@ -12,3 +12,4 @@ public class Student extends Person
 
    // You decide if you need toString() and equals()
 }
+
